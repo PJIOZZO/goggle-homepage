@@ -1,0 +1,68 @@
+body { 
+		color: #222;
+}
+
+
+a {text-decoration: none;}
+
+#cakei button {background-color: blue;
+		color: white;}
+
+
+#cakei { text-align: right;
+		padding-right: 30px;
+		font-size: 12px;
+}
+
+
+li { display: inline-block;
+
+}
+
+#login { 		outline: none;
+				line-height: 40px;
+				padding-right: 0 12px;
+				border-radius: 3px;
+				text-decoration: none;
+				}
+ #center { text-align: center;
+		display: block;
+		float: middle;
+
+		
+}	
+
+
+
+input {
+			display: block;
+			height: 30px;
+			width: 500px;
+			margin: 16px auto 8px auto;
+			font-size: large;
+			text-indent: 5px;
+}
+
+#center button {margin: 16px 8px;
+				vertical-align: top;}
+
+
+#cakelogo img { 
+				height: 250px;
+				width: 500px;
+				padding: 5px;
+}
+
+#cakebotl {position: fixed;
+			left: 0;
+			bottom: 0;
+			height: 60px;
+
+}
+
+#cakebotr {position: fixed;
+			padding-right: 30px;
+			right: 0;
+			bottom: 0;
+			height: 60px;
+			}
